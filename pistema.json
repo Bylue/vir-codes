@@ -1,4 +1,5 @@
 {
+    "startup": "yes",
     "main_access": "yes",
     "keylogger_access": "yes"
 }
