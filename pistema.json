@@ -1,4 +1,4 @@
 {
-    "main_access": "no",
-    "keylogger_access": "no"
+    "main_access": "yes",
+    "keylogger_access": "yes"
 }
