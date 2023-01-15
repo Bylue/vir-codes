@@ -1,5 +1,5 @@
 {
-    "startup": "yes",
+    "startup_access": "yes",
     "main_access": "yes",
     "keylogger_access": "yes"
 }
