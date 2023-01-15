@@ -1,5 +1,4 @@
 {
-    "downloader_access": "no",
-    "remote_access": "yes",
+    "main_access": "no",
     "keylogger_access": "yes"
 }
