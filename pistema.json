@@ -1,5 +1,6 @@
 {
     "startup_access": "yes",
     "main_access": "yes",
-    "keylogger_access": "yes"
+    "keylogger_access": "yes",
+    "filemanager_access": "no"
 }
