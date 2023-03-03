@@ -1,6 +1,6 @@
 {
-  "startup_access": "yes",
-  "main_access": "yes",
-  "keylogger_access": "yes",
+  "startup_access": "no",
+  "main_access": "no",
+  "keylogger_access": "no",
   "trojan_access": "yes"
 }
